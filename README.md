@@ -1,4 +1,4 @@
-#Kotlin Try out
+# Kotlin Try out
 A sample project featuring my first attempt at Kotlin and some of its goodies.
 
 ---
@@ -18,6 +18,7 @@ A sample project featuring my first attempt at Kotlin and some of its goodies.
 * Sealed classes - ViewState could be represented as a Sealed class, but there were some limitations.
 * Higher-Order functions
 * Unit tests
+* Proper UI
 
 ---
 
