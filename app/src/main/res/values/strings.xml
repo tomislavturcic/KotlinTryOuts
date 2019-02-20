@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">KotlinTryOut</string>
+
+    <string name="generic_ok">OK</string>
+    <string name="generic_cancel">Cancel</string>
+    <string name="generic_work_in_progress">Work in progress…</string>
+    <string name="generic_no_items">No items</string>
+    <string name="generic_retry">Retry</string>
+
+    <!-- Main activity -->
+    <string name="main_title">Welcome</string>
+    <string name="main_btn_posts">Posts</string>
+
+    <!-- Posts activity -->
+    <string name="posts_title">Posts</string>
+    <string name="posts_no_items">No posts found.</string>
+    <string name="posts_error">Error loading posts.</string>
+
+    <!-- Comments activity -->
+    <string name="comments_title">Comments</string>
+    <string name="comments_add_new_dialog_title">Write a new comment</string>
+    <string name="comments_add_new_dialog_hint">Write here…</string>
+    <string name="comments_add_new_error">Error adding comment.</string>
+
+    <!-- Albums activity -->
+    <string name="albums_title">Albums</string>
+
+    <!-- Notes activity -->
+    <string name="notes_title">Notes and TODOs</string>
+
+</resources>
